@@ -1,0 +1,15 @@
+/home/fabricio/projetos/projheranca/projheranca/bin/Debug/net6.0/projheranca
+/home/fabricio/projetos/projheranca/projheranca/bin/Debug/net6.0/projheranca.deps.json
+/home/fabricio/projetos/projheranca/projheranca/bin/Debug/net6.0/projheranca.runtimeconfig.json
+/home/fabricio/projetos/projheranca/projheranca/bin/Debug/net6.0/projheranca.dll
+/home/fabricio/projetos/projheranca/projheranca/bin/Debug/net6.0/projheranca.pdb
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.csproj.AssemblyReference.cache
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.GeneratedMSBuildEditorConfig.editorconfig
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.AssemblyInfoInputs.cache
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.AssemblyInfo.cs
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.csproj.CoreCompileInputs.cache
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.dll
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/refint/projheranca.dll
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.pdb
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/projheranca.genruntimeconfig.cache
+/home/fabricio/projetos/projheranca/projheranca/obj/Debug/net6.0/ref/projheranca.dll
